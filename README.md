@@ -65,7 +65,7 @@ Deletes messages by ID(s). Supports batch deletion with per-ID status reporting.
 JSON Output:
 ```json
 {
-  "host": "10.0.10.1",
+  "host": "192.168.8.1",
   "total_requested": 2,
   "deleted": ["40001"],
   "failed": [{"id":"99999","reason":"message_not_found"}]
