@@ -103,4 +103,4 @@ MIT License. Feel free to use, modify, and distribute.
 
 ## 🤝 Credits
 Huawei HiLink API reverse engineering & community documentation
-[Stephen Monro's Blog](https://stephenmonro.wordpress.com/2019/02/13/getting-sms-messages-from-the-huawei-e3372-lte-modem/?spm=a2ty_o01.29997173.0.0.278a55fbeQUZrF) for API insights
+[Stephen Monro's Blog](https://stephenmonro.wordpress.com/2019/02/13/getting-sms-messages-from-the-huawei-e3372-lte-modem/) for API insights
